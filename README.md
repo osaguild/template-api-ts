@@ -1,2 +1,2 @@
-# template-node-typescript
-template repository for typescript x node
+# template-api-ts
+template repository for api using typescript, node and aws-cdk
